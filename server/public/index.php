@@ -166,7 +166,7 @@
     <!-- Chat Bubble and Window -->
     <div id="chat-bubble" onclick="toggleChat()">Chat</div>
     <div id="chat-window">
-        <iframe src="http://localhost/plumber%20websites/Website-folder/server/public/chat_client.html"></iframe>
+        <iframe src="Website-folder\server\public\chat_worker.html"></iframe>
     </div>
 
     <!-- Footer -->
